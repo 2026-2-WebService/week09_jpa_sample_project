@@ -1,0 +1,5 @@
+-- Adapt table and column names to your existing personal table.
+-- Do NOT execute unchanged unless product(name, price, category, stock) exists.
+-- INSERT INTO product(name, price, category, stock)
+-- VALUES ('Keyboard', 35000, 'Device', 10);
+-- SELECT * FROM product;
